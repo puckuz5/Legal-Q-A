@@ -1,1 +1,10 @@
-pip freeze > requirements.txt
+streamlit
+PyPDF2
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+groq
+python-dotenv
+numpy
